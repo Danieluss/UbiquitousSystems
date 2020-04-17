@@ -1,0 +1,16 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="algorithm_entries">
+        <item>Simple</item>
+        <item>Conway</item>
+        <item>Trigonometric</item>
+        <item>Trigonometric v2</item>
+    </string-array>
+
+    <string-array name="algorithm_values">
+        <item>simple</item>
+        <item>conway</item>
+        <item>trig</item>
+        <item>trig2</item>
+    </string-array>
+</resources>
